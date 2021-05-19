@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PBExam/static/css/main.7449644c.chunk.css",
+    "main.js": "/PBExam/static/js/main.474dd014.chunk.js",
+    "main.js.map": "/PBExam/static/js/main.474dd014.chunk.js.map",
+    "runtime-main.js": "/PBExam/static/js/runtime-main.03358392.js",
+    "runtime-main.js.map": "/PBExam/static/js/runtime-main.03358392.js.map",
+    "static/js/2.04a787e2.chunk.js": "/PBExam/static/js/2.04a787e2.chunk.js",
+    "static/js/2.04a787e2.chunk.js.map": "/PBExam/static/js/2.04a787e2.chunk.js.map",
+    "static/js/3.ecf58933.chunk.js": "/PBExam/static/js/3.ecf58933.chunk.js",
+    "static/js/3.ecf58933.chunk.js.map": "/PBExam/static/js/3.ecf58933.chunk.js.map",
+    "index.html": "/PBExam/index.html",
+    "static/css/main.7449644c.chunk.css.map": "/PBExam/static/css/main.7449644c.chunk.css.map",
+    "static/js/2.04a787e2.chunk.js.LICENSE.txt": "/PBExam/static/js/2.04a787e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03358392.js",
+    "static/js/2.04a787e2.chunk.js",
+    "static/css/main.7449644c.chunk.css",
+    "static/js/main.474dd014.chunk.js"
+  ]
+}
